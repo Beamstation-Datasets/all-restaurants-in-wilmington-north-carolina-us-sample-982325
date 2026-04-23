@@ -1,6 +1,6 @@
 # All Restaurants in Wilmington, North Carolina, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `982325` |
 | Location | Wilmington |
 | Category | Restaurants |
-| Full dataset size | 655 records |
-| Free sample size | 65 records (9.92%) |
-| Last export | 2026-04-16T12:49:37.481146+00:00 |
+| Full dataset size | 451 records |
+| Free sample size | 45 records (9.98%) |
+| Last export | 2026-04-23T12:03:21.919042+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wilmington-north-carolina-us-sample-982325/releases/download/sample-latest/beamstation_982325_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
