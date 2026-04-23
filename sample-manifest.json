@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2d4ea871-8eaf-4080-b15e-3ad3c193f381",
+  "export_job_id": "653b7e1e-0a24-424d-b30d-5052fae1aed4",
   "id_short": 982325,
-  "published_at": "2026-04-19T19:13:55Z",
+  "published_at": "2026-04-23T19:06:43Z",
   "repo_name": "all-restaurants-in-wilmington-north-carolina-us-sample-982325",
   "sample_asset_name": "beamstation_982325_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/982325/beamstation_982325_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 65,
-  "sample_sha256": "b6034071763072154ce5d2f81806c183206b1d75b1ea470ab63a6cae33b70ed7",
-  "sample_size_bytes": 261566,
-  "total_records": 655
+  "sample_records": 45,
+  "sample_sha256": "e4846d36342b1e44e61da5ffb222ba682f0baab955919238813cd87cfdf634aa",
+  "sample_size_bytes": 193011,
+  "total_records": 451
 }
